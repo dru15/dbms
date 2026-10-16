@@ -1,0 +1,19 @@
+category,donor_id,donor_name,total_quantity,category_rank
+clothing,20,ActionAid Association India,1698,1
+clothing,2,Tata Community Initiatives Trust,1659,2
+clothing,8,Col. Rajeshwar Chauhan (Retd),1516,3
+food,8,Col. Rajeshwar Chauhan (Retd),2804,1
+food,2,Tata Community Initiatives Trust,2795,2
+food,20,ActionAid Association India,1686,3
+hygiene,14,State Disaster Mitigation Authority,1753,1
+hygiene,20,ActionAid Association India,1474,2
+hygiene,11,Adani Foundation,956,3
+medical,2,Tata Community Initiatives Trust,2434,1
+medical,20,ActionAid Association India,2420,2
+medical,14,State Disaster Mitigation Authority,2243,3
+shelter,8,Col. Rajeshwar Chauhan (Retd),2245,1
+shelter,2,Tata Community Initiatives Trust,2069,2
+shelter,20,ActionAid Association India,1854,3
+water,14,State Disaster Mitigation Authority,1828,1
+water,8,Col. Rajeshwar Chauhan (Retd),1802,2
+water,20,ActionAid Association India,1668,3

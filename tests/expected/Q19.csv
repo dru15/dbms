@@ -1,0 +1,13 @@
+camp_id,camp_name,capacity,registered_members,open_requests,assigned_volunteers
+1,Meppadi High School Relief Camp,100,92,30,9
+2,Kalpetta Community Shelter,120,44,1,5
+3,Silchar Central Flood Shelter,150,44,0,9
+4,Hailakandi Town Hall Camp,80,44,29,4
+5,Joshimath Sector A Transit Camp,90,44,0,4
+6,Karnaprayag Relief Center,110,44,0,4
+7,Kendrapara Cyclone Shelter No. 1,140,44,30,4
+8,Paradip Coastal Care Camp,130,44,0,4
+9,Mandi Valley Emergency Camp,95,44,0,4
+10,Kullu Relief Hub,100,40,30,5
+11,Uttarkashi Base Camp,85,40,0,4
+12,Rudraprayag Youth Shelter,110,44,0,4

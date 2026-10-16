@@ -1,0 +1,108 @@
+camp_id,camp_name,shipment_id,shipment_date,quantity_sent,running_total_quantity
+1,Meppadi High School Relief Camp,1,2026-01-15,450,450
+1,Meppadi High School Relief Camp,180,2026-01-25,350,800
+1,Meppadi High School Relief Camp,96,2026-02-02,406,1206
+1,Meppadi High School Relief Camp,192,2026-03-02,542,1748
+1,Meppadi High School Relief Camp,108,2026-03-10,598,2346
+1,Meppadi High School Relief Camp,24,2026-03-18,654,3000
+1,Meppadi High School Relief Camp,120,2026-04-15,790,3790
+1,Meppadi High School Relief Camp,36,2026-04-23,846,4636
+1,Meppadi High School Relief Camp,132,2026-05-21,982,5618
+1,Meppadi High School Relief Camp,48,2026-05-29,1038,6656
+1,Meppadi High School Relief Camp,144,2026-06-26,1174,7830
+1,Meppadi High School Relief Camp,60,2026-07-04,1230,9060
+1,Meppadi High School Relief Camp,156,2026-08-01,1366,10426
+1,Meppadi High School Relief Camp,72,2026-08-09,1422,11848
+1,Meppadi High School Relief Camp,168,2026-09-06,508,12356
+1,Meppadi High School Relief Camp,84,2026-09-14,214,12570
+2,Kalpetta Community Shelter,175,2026-01-10,180,180
+2,Kalpetta Community Shelter,91,2026-01-18,222,402
+2,Kalpetta Community Shelter,2,2026-02-12,204,606
+2,Kalpetta Community Shelter,187,2026-02-15,324,930
+2,Kalpetta Community Shelter,103,2026-02-23,366,1296
+2,Kalpetta Community Shelter,19,2026-03-03,408,1704
+2,Kalpetta Community Shelter,199,2026-03-23,468,2172
+2,Kalpetta Community Shelter,115,2026-03-31,510,2682
+2,Kalpetta Community Shelter,31,2026-04-08,552,3234
+2,Kalpetta Community Shelter,127,2026-05-06,654,3888
+2,Kalpetta Community Shelter,43,2026-05-14,696,4584
+2,Kalpetta Community Shelter,139,2026-06-11,798,5382
+2,Kalpetta Community Shelter,55,2026-06-19,840,6222
+2,Kalpetta Community Shelter,151,2026-07-17,942,7164
+2,Kalpetta Community Shelter,67,2026-07-25,984,8148
+2,Kalpetta Community Shelter,163,2026-08-22,1086,9234
+2,Kalpetta Community Shelter,79,2026-08-30,778,10012
+3,Silchar Central Flood Shelter,182,2026-01-31,264,264
+3,Silchar Central Flood Shelter,98,2026-02-08,306,570
+3,Silchar Central Flood Shelter,14,2026-02-16,348,918
+3,Silchar Central Flood Shelter,194,2026-03-08,408,1326
+3,Silchar Central Flood Shelter,3,2026-03-10,318,1644
+3,Silchar Central Flood Shelter,110,2026-03-16,450,2094
+3,Silchar Central Flood Shelter,26,2026-03-24,492,2586
+3,Silchar Central Flood Shelter,122,2026-04-21,594,3180
+3,Silchar Central Flood Shelter,38,2026-04-29,636,3816
+3,Silchar Central Flood Shelter,134,2026-05-27,738,4554
+3,Silchar Central Flood Shelter,50,2026-06-04,780,5334
+3,Silchar Central Flood Shelter,146,2026-07-02,882,6216
+3,Silchar Central Flood Shelter,62,2026-07-10,924,7140
+3,Silchar Central Flood Shelter,158,2026-08-07,1026,8166
+3,Silchar Central Flood Shelter,74,2026-08-15,1068,9234
+3,Silchar Central Flood Shelter,170,2026-09-12,470,9704
+3,Silchar Central Flood Shelter,86,2026-09-20,162,9866
+4,Hailakandi Town Hall Camp,4,2026-04-08,228,228
+5,Joshimath Sector A Transit Camp,5,2026-05-14,240,240
+6,Karnaprayag Relief Center,6,2026-06-20,366,366
+7,Kendrapara Cyclone Shelter No. 1,174,2026-01-07,254,254
+7,Kendrapara Cyclone Shelter No. 1,90,2026-01-15,310,564
+7,Kendrapara Cyclone Shelter No. 1,186,2026-02-12,446,1010
+7,Kendrapara Cyclone Shelter No. 1,102,2026-02-20,502,1512
+7,Kendrapara Cyclone Shelter No. 1,18,2026-02-28,558,2070
+7,Kendrapara Cyclone Shelter No. 1,198,2026-03-20,638,2708
+7,Kendrapara Cyclone Shelter No. 1,114,2026-03-28,694,3402
+7,Kendrapara Cyclone Shelter No. 1,30,2026-04-05,750,4152
+7,Kendrapara Cyclone Shelter No. 1,126,2026-05-03,886,5038
+7,Kendrapara Cyclone Shelter No. 1,42,2026-05-11,942,5980
+7,Kendrapara Cyclone Shelter No. 1,138,2026-06-08,1078,7058
+7,Kendrapara Cyclone Shelter No. 1,54,2026-06-16,1134,8192
+7,Kendrapara Cyclone Shelter No. 1,150,2026-07-14,1270,9462
+7,Kendrapara Cyclone Shelter No. 1,7,2026-07-18,264,9726
+7,Kendrapara Cyclone Shelter No. 1,66,2026-07-22,1326,11052
+7,Kendrapara Cyclone Shelter No. 1,162,2026-08-19,1112,12164
+7,Kendrapara Cyclone Shelter No. 1,78,2026-08-27,818,12982
+8,Paradip Coastal Care Camp,181,2026-01-28,252,252
+8,Paradip Coastal Care Camp,97,2026-02-05,294,546
+8,Paradip Coastal Care Camp,13,2026-02-13,336,882
+8,Paradip Coastal Care Camp,193,2026-03-05,396,1278
+8,Paradip Coastal Care Camp,109,2026-03-13,438,1716
+8,Paradip Coastal Care Camp,25,2026-03-21,480,2196
+8,Paradip Coastal Care Camp,121,2026-04-18,582,2778
+8,Paradip Coastal Care Camp,37,2026-04-26,624,3402
+8,Paradip Coastal Care Camp,133,2026-05-24,726,4128
+8,Paradip Coastal Care Camp,49,2026-06-01,768,4896
+8,Paradip Coastal Care Camp,145,2026-06-29,870,5766
+8,Paradip Coastal Care Camp,61,2026-07-07,912,6678
+8,Paradip Coastal Care Camp,157,2026-08-04,1014,7692
+8,Paradip Coastal Care Camp,73,2026-08-12,1056,8748
+8,Paradip Coastal Care Camp,8,2026-08-22,276,9024
+8,Paradip Coastal Care Camp,169,2026-09-09,458,9482
+8,Paradip Coastal Care Camp,85,2026-09-17,150,9632
+9,Mandi Valley Emergency Camp,176,2026-01-13,192,192
+9,Mandi Valley Emergency Camp,92,2026-01-21,234,426
+9,Mandi Valley Emergency Camp,188,2026-02-18,336,762
+9,Mandi Valley Emergency Camp,104,2026-02-26,378,1140
+9,Mandi Valley Emergency Camp,20,2026-03-06,420,1560
+9,Mandi Valley Emergency Camp,200,2026-03-26,480,2040
+9,Mandi Valley Emergency Camp,116,2026-04-03,522,2562
+9,Mandi Valley Emergency Camp,32,2026-04-11,564,3126
+9,Mandi Valley Emergency Camp,128,2026-05-09,666,3792
+9,Mandi Valley Emergency Camp,44,2026-05-17,708,4500
+9,Mandi Valley Emergency Camp,140,2026-06-14,810,5310
+9,Mandi Valley Emergency Camp,56,2026-06-22,852,6162
+9,Mandi Valley Emergency Camp,152,2026-07-20,954,7116
+9,Mandi Valley Emergency Camp,68,2026-07-28,996,8112
+9,Mandi Valley Emergency Camp,164,2026-08-25,748,8860
+9,Mandi Valley Emergency Camp,80,2026-09-02,440,9300
+9,Mandi Valley Emergency Camp,9,2026-09-25,414,9714
+10,Kullu Relief Hub,10,2026-03-28,300,300
+11,Uttarkashi Base Camp,11,2026-05-29,312,312
+12,Rudraprayag Youth Shelter,12,2026-07-30,462,462

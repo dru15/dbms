@@ -1,0 +1,423 @@
+camp_id,camp_name,item_id,item_name,total_quantity_sent
+1,Meppadi High School Relief Camp,1,Rice (25kg bag),588
+1,Meppadi High School Relief Camp,2,Wheat Flour (10kg bag),414
+1,Meppadi High School Relief Camp,3,Toor Dal (5kg packet),218
+1,Meppadi High School Relief Camp,5,Baby Food Cereal (500g tin),348
+1,Meppadi High School Relief Camp,6,Biscuits (Carton of 50),600
+1,Meppadi High School Relief Camp,8,Ready-to-Eat Khichdi Meals,380
+1,Meppadi High School Relief Camp,9,Packaged Drinking Water (20L Jar),634
+1,Meppadi High School Relief Camp,10,Mineral Water Bottles (1L Carton),510
+1,Meppadi High School Relief Camp,11,Water Purification Tablets (100 tab box),314
+1,Meppadi High School Relief Camp,12,Chlorine Drops (100ml bottle),171
+1,Meppadi High School Relief Camp,13,Mobile Water Filter Unit,444
+1,Meppadi High School Relief Camp,14,Jerry Can 10L,346
+1,Meppadi High School Relief Camp,16,Paracetamol 500mg (Strips of 10),476
+1,Meppadi High School Relief Camp,17,Oral Rehydration Salts (ORS 50 pkts),630
+1,Meppadi High School Relief Camp,18,Bandage Rolls (Pack of 12),65
+1,Meppadi High School Relief Camp,19,Antiseptic Liquid (500ml),410
+1,Meppadi High School Relief Camp,20,Ciprofloxacin 500mg,219
+1,Meppadi High School Relief Camp,21,Disposable Syringes (Pack of 50),190
+1,Meppadi High School Relief Camp,22,Emergency Trauma Dressing,442
+1,Meppadi High School Relief Camp,23,Family Tarpaulin 15x12 ft,186
+1,Meppadi High School Relief Camp,24,Waterproof Groundsheet 12x10 ft,572
+1,Meppadi High School Relief Camp,25,Nylon Rope (30m bundle),376
+1,Meppadi High School Relief Camp,26,Foldable Steel Cot,113
+1,Meppadi High School Relief Camp,27,Bamboo Poles (Bundle of 5),506
+1,Meppadi High School Relief Camp,28,Solar Lantern (Emergency),408
+1,Meppadi High School Relief Camp,29,Woolen Blanket (Heavy),80
+1,Meppadi High School Relief Camp,30,Cotton Bedsheets (Double),188
+1,Meppadi High School Relief Camp,31,Men's Dhoti & Kurta Set,234
+1,Meppadi High School Relief Camp,32,Women's Saree & Blouse Set,318
+1,Meppadi High School Relief Camp,33,Children's Thermal Wear Set,472
+1,Meppadi High School Relief Camp,35,Sanitary Napkins (Pack of 20),602
+1,Meppadi High School Relief Camp,36,Bathing Soap (Pack of 4),504
+1,Meppadi High School Relief Camp,37,Detergent Powder (1kg pack),128
+1,Meppadi High School Relief Camp,38,Toothpaste & Brush Family Kit,284
+1,Meppadi High School Relief Camp,40,Mosquito Repellent Ointment,200
+2,Kalpetta Community Shelter,1,Rice (25kg bag),464
+2,Kalpetta Community Shelter,2,Wheat Flour (10kg bag),108
+2,Kalpetta Community Shelter,3,Toor Dal (5kg packet),244
+2,Kalpetta Community Shelter,4,Mustard Oil (1L pouch),136
+2,Kalpetta Community Shelter,5,Baby Food Cereal (500g tin),374
+2,Kalpetta Community Shelter,6,Biscuits (Carton of 50),376
+2,Kalpetta Community Shelter,8,Ready-to-Eat Khichdi Meals,266
+2,Kalpetta Community Shelter,9,Packaged Drinking Water (20L Jar),560
+2,Kalpetta Community Shelter,10,Mineral Water Bottles (1L Carton),239
+2,Kalpetta Community Shelter,11,Water Purification Tablets (100 tab box),340
+2,Kalpetta Community Shelter,12,Chlorine Drops (100ml bottle),184
+2,Kalpetta Community Shelter,13,Mobile Water Filter Unit,470
+2,Kalpetta Community Shelter,14,Jerry Can 10L,74
+2,Kalpetta Community Shelter,15,First Aid Kit (Comprehensive),151
+2,Kalpetta Community Shelter,16,Paracetamol 500mg (Strips of 10),314
+2,Kalpetta Community Shelter,17,Oral Rehydration Salts (ORS 50 pkts),306
+2,Kalpetta Community Shelter,19,Antiseptic Liquid (500ml),436
+2,Kalpetta Community Shelter,21,Disposable Syringes (Pack of 50),448
+2,Kalpetta Community Shelter,22,Emergency Trauma Dressing,122
+2,Kalpetta Community Shelter,23,Family Tarpaulin 15x12 ft,199
+2,Kalpetta Community Shelter,24,Waterproof Groundsheet 12x10 ft,362
+2,Kalpetta Community Shelter,25,Nylon Rope (30m bundle),402
+2,Kalpetta Community Shelter,26,Foldable Steel Cot,53
+2,Kalpetta Community Shelter,27,Bamboo Poles (Bundle of 5),532
+2,Kalpetta Community Shelter,28,Solar Lantern (Emergency),280
+2,Kalpetta Community Shelter,29,Woolen Blanket (Heavy),93
+2,Kalpetta Community Shelter,30,Cotton Bedsheets (Double),170
+2,Kalpetta Community Shelter,31,Men's Dhoti & Kurta Set,368
+2,Kalpetta Community Shelter,32,Women's Saree & Blouse Set,60
+2,Kalpetta Community Shelter,33,Children's Thermal Wear Set,498
+2,Kalpetta Community Shelter,35,Sanitary Napkins (Pack of 20),628
+2,Kalpetta Community Shelter,36,Bathing Soap (Pack of 4),328
+2,Kalpetta Community Shelter,37,Detergent Powder (1kg pack),209
+2,Kalpetta Community Shelter,38,Toothpaste & Brush Family Kit,218
+3,Silchar Central Flood Shelter,1,Rice (25kg bag),308
+3,Silchar Central Flood Shelter,2,Wheat Flour (10kg bag),121
+3,Silchar Central Flood Shelter,3,Toor Dal (5kg packet),198
+3,Silchar Central Flood Shelter,4,Mustard Oil (1L pouch),424
+3,Silchar Central Flood Shelter,5,Baby Food Cereal (500g tin),88
+3,Silchar Central Flood Shelter,6,Biscuits (Carton of 50),276
+3,Silchar Central Flood Shelter,7,Iodized Salt (1kg packet),116
+3,Silchar Central Flood Shelter,8,Ready-to-Eat Khichdi Meals,334
+3,Silchar Central Flood Shelter,9,Packaged Drinking Water (20L Jar),356
+3,Silchar Central Flood Shelter,11,Water Purification Tablets (100 tab box),246
+3,Silchar Central Flood Shelter,12,Chlorine Drops (100ml bottle),520
+3,Silchar Central Flood Shelter,13,Mobile Water Filter Unit,136
+3,Silchar Central Flood Shelter,14,Jerry Can 10L,300
+3,Silchar Central Flood Shelter,15,First Aid Kit (Comprehensive),164
+3,Silchar Central Flood Shelter,16,Paracetamol 500mg (Strips of 10),430
+3,Silchar Central Flood Shelter,17,Oral Rehydration Salts (ORS 50 pkts),141
+3,Silchar Central Flood Shelter,18,Bandage Rolls (Pack of 12),131
+3,Silchar Central Flood Shelter,19,Antiseptic Liquid (500ml),294
+3,Silchar Central Flood Shelter,20,Ciprofloxacin 500mg,616
+3,Silchar Central Flood Shelter,22,Emergency Trauma Dressing,396
+3,Silchar Central Flood Shelter,23,Family Tarpaulin 15x12 ft,212
+3,Silchar Central Flood Shelter,24,Waterproof Groundsheet 12x10 ft,526
+3,Silchar Central Flood Shelter,25,Nylon Rope (30m bundle),102
+3,Silchar Central Flood Shelter,26,Foldable Steel Cot,179
+3,Silchar Central Flood Shelter,27,Bamboo Poles (Bundle of 5),342
+3,Silchar Central Flood Shelter,28,Solar Lantern (Emergency),464
+3,Silchar Central Flood Shelter,30,Cotton Bedsheets (Double),492
+3,Silchar Central Flood Shelter,31,Men's Dhoti & Kurta Set,260
+3,Silchar Central Flood Shelter,32,Women's Saree & Blouse Set,73
+3,Silchar Central Flood Shelter,33,Children's Thermal Wear Set,207
+3,Silchar Central Flood Shelter,34,Rain Ponchos (Pack of 5),328
+3,Silchar Central Flood Shelter,35,Sanitary Napkins (Pack of 20),40
+3,Silchar Central Flood Shelter,36,Bathing Soap (Pack of 4),458
+3,Silchar Central Flood Shelter,38,Toothpaste & Brush Family Kit,588
+4,Hailakandi Town Hall Camp,1,Rice (25kg bag),418
+4,Hailakandi Town Hall Camp,2,Wheat Flour (10kg bag),235
+4,Hailakandi Town Hall Camp,3,Toor Dal (5kg packet),548
+4,Hailakandi Town Hall Camp,4,Mustard Oil (1L pouch),352
+4,Hailakandi Town Hall Camp,5,Baby Food Cereal (500g tin),101
+4,Hailakandi Town Hall Camp,6,Biscuits (Carton of 50),482
+4,Hailakandi Town Hall Camp,7,Iodized Salt (1kg packet),384
+4,Hailakandi Town Hall Camp,8,Ready-to-Eat Khichdi Meals,68
+4,Hailakandi Town Hall Camp,9,Packaged Drinking Water (20L Jar),514
+4,Hailakandi Town Hall Camp,10,Mineral Water Bottles (1L Carton),222
+4,Hailakandi Town Hall Camp,11,Water Purification Tablets (100 tab box),294
+4,Hailakandi Town Hall Camp,12,Chlorine Drops (100ml bottle),448
+4,Hailakandi Town Hall Camp,13,Mobile Water Filter Unit,76
+4,Hailakandi Town Hall Camp,14,Jerry Can 10L,578
+4,Hailakandi Town Hall Camp,15,First Aid Kit (Comprehensive),480
+4,Hailakandi Town Hall Camp,16,Paracetamol 500mg (Strips of 10),116
+4,Hailakandi Town Hall Camp,17,Oral Rehydration Salts (ORS 50 pkts),260
+4,Hailakandi Town Hall Camp,18,Bandage Rolls (Pack of 12),414
+4,Hailakandi Town Hall Camp,19,Antiseptic Liquid (500ml),390
+4,Hailakandi Town Hall Camp,20,Ciprofloxacin 500mg,194
+4,Hailakandi Town Hall Camp,22,Emergency Trauma Dressing,324
+4,Hailakandi Town Hall Camp,23,Family Tarpaulin 15x12 ft,576
+4,Hailakandi Town Hall Camp,24,Waterproof Groundsheet 12x10 ft,91
+4,Hailakandi Town Hall Camp,25,Nylon Rope (30m bundle),356
+4,Hailakandi Town Hall Camp,26,Foldable Steel Cot,510
+4,Hailakandi Town Hall Camp,27,Bamboo Poles (Bundle of 5),486
+4,Hailakandi Town Hall Camp,28,Solar Lantern (Emergency),290
+4,Hailakandi Town Hall Camp,29,Woolen Blanket (Heavy),159
+4,Hailakandi Town Hall Camp,30,Cotton Bedsheets (Double),420
+4,Hailakandi Town Hall Camp,31,Men's Dhoti & Kurta Set,322
+4,Hailakandi Town Hall Camp,33,Children's Thermal Wear Set,452
+4,Hailakandi Town Hall Camp,34,Rain Ponchos (Pack of 5),606
+4,Hailakandi Town Hall Camp,35,Sanitary Napkins (Pack of 20),53
+4,Hailakandi Town Hall Camp,36,Bathing Soap (Pack of 4),386
+4,Hailakandi Town Hall Camp,37,Detergent Powder (1kg pack),207
+4,Hailakandi Town Hall Camp,38,Toothpaste & Brush Family Kit,516
+5,Joshimath Sector A Transit Camp,1,Rice (25kg bag),110
+5,Joshimath Sector A Transit Camp,2,Wheat Flour (10kg bag),187
+5,Joshimath Sector A Transit Camp,3,Toor Dal (5kg packet),350
+5,Joshimath Sector A Transit Camp,4,Mustard Oil (1L pouch),378
+5,Joshimath Sector A Transit Camp,6,Biscuits (Carton of 50),508
+5,Joshimath Sector A Transit Camp,7,Iodized Salt (1kg packet),268
+5,Joshimath Sector A Transit Camp,8,Ready-to-Eat Khichdi Meals,81
+5,Joshimath Sector A Transit Camp,9,Packaged Drinking Water (20L Jar),223
+5,Joshimath Sector A Transit Camp,10,Mineral Water Bottles (1L Carton),344
+5,Joshimath Sector A Transit Camp,11,Water Purification Tablets (100 tab box),48
+5,Joshimath Sector A Transit Camp,12,Chlorine Drops (100ml bottle),474
+5,Joshimath Sector A Transit Camp,14,Jerry Can 10L,604
+5,Joshimath Sector A Transit Camp,15,First Aid Kit (Comprehensive),316
+5,Joshimath Sector A Transit Camp,16,Paracetamol 500mg (Strips of 10),129
+5,Joshimath Sector A Transit Camp,17,Oral Rehydration Salts (ORS 50 pkts),206
+5,Joshimath Sector A Transit Camp,18,Bandage Rolls (Pack of 12),440
+5,Joshimath Sector A Transit Camp,19,Antiseptic Liquid (500ml),96
+5,Joshimath Sector A Transit Camp,20,Ciprofloxacin 500mg,300
+5,Joshimath Sector A Transit Camp,21,Disposable Syringes (Pack of 50),124
+5,Joshimath Sector A Transit Camp,22,Emergency Trauma Dressing,350
+5,Joshimath Sector A Transit Camp,23,Family Tarpaulin 15x12 ft,364
+5,Joshimath Sector A Transit Camp,25,Nylon Rope (30m bundle),254
+5,Joshimath Sector A Transit Camp,26,Foldable Steel Cot,536
+5,Joshimath Sector A Transit Camp,27,Bamboo Poles (Bundle of 5),144
+5,Joshimath Sector A Transit Camp,28,Solar Lantern (Emergency),316
+5,Joshimath Sector A Transit Camp,29,Woolen Blanket (Heavy),172
+5,Joshimath Sector A Transit Camp,30,Cotton Bedsheets (Double),446
+5,Joshimath Sector A Transit Camp,31,Men's Dhoti & Kurta Set,157
+5,Joshimath Sector A Transit Camp,32,Women's Saree & Blouse Set,139
+5,Joshimath Sector A Transit Camp,33,Children's Thermal Wear Set,302
+5,Joshimath Sector A Transit Camp,34,Rain Ponchos (Pack of 5),632
+5,Joshimath Sector A Transit Camp,36,Bathing Soap (Pack of 4),412
+5,Joshimath Sector A Transit Camp,37,Detergent Powder (1kg pack),220
+5,Joshimath Sector A Transit Camp,38,Toothpaste & Brush Family Kit,192
+6,Karnaprayag Relief Center,1,Rice (25kg bag),372
+6,Karnaprayag Relief Center,2,Wheat Flour (10kg bag),200
+6,Karnaprayag Relief Center,3,Toor Dal (5kg packet),502
+6,Karnaprayag Relief Center,4,Mustard Oil (1L pouch),90
+6,Karnaprayag Relief Center,5,Baby Food Cereal (500g tin),167
+6,Karnaprayag Relief Center,6,Biscuits (Carton of 50),330
+6,Karnaprayag Relief Center,7,Iodized Salt (1kg packet),338
+6,Karnaprayag Relief Center,9,Packaged Drinking Water (20L Jar),468
+6,Karnaprayag Relief Center,10,Mineral Water Bottles (1L Carton),248
+6,Karnaprayag Relief Center,11,Water Purification Tablets (100 tab box),175
+6,Karnaprayag Relief Center,12,Chlorine Drops (100ml bottle),138
+6,Karnaprayag Relief Center,13,Mobile Water Filter Unit,215
+6,Karnaprayag Relief Center,14,Jerry Can 10L,378
+6,Karnaprayag Relief Center,15,First Aid Kit (Comprehensive),434
+6,Karnaprayag Relief Center,16,Paracetamol 500mg (Strips of 10),69
+6,Karnaprayag Relief Center,17,Oral Rehydration Salts (ORS 50 pkts),564
+6,Karnaprayag Relief Center,18,Bandage Rolls (Pack of 12),296
+6,Karnaprayag Relief Center,19,Antiseptic Liquid (500ml),109
+6,Karnaprayag Relief Center,20,Ciprofloxacin 500mg,186
+6,Karnaprayag Relief Center,21,Disposable Syringes (Pack of 50),400
+6,Karnaprayag Relief Center,22,Emergency Trauma Dressing,76
+6,Karnaprayag Relief Center,23,Family Tarpaulin 15x12 ft,530
+6,Karnaprayag Relief Center,25,Nylon Rope (30m bundle),310
+6,Karnaprayag Relief Center,26,Foldable Steel Cot,344
+6,Karnaprayag Relief Center,27,Bamboo Poles (Bundle of 5),84
+6,Karnaprayag Relief Center,28,Solar Lantern (Emergency),234
+6,Karnaprayag Relief Center,29,Woolen Blanket (Heavy),496
+6,Karnaprayag Relief Center,30,Cotton Bedsheets (Double),124
+6,Karnaprayag Relief Center,31,Men's Dhoti & Kurta Set,276
+6,Karnaprayag Relief Center,32,Women's Saree & Blouse Set,152
+6,Karnaprayag Relief Center,33,Children's Thermal Wear Set,406
+6,Karnaprayag Relief Center,34,Rain Ponchos (Pack of 5),42
+6,Karnaprayag Relief Center,36,Bathing Soap (Pack of 4),282
+6,Karnaprayag Relief Center,37,Detergent Powder (1kg pack),592
+6,Karnaprayag Relief Center,38,Toothpaste & Brush Family Kit,99
+7,Kendrapara Cyclone Shelter No. 1,1,Rice (25kg bag),300
+7,Kendrapara Cyclone Shelter No. 1,2,Wheat Flour (10kg bag),552
+7,Kendrapara Cyclone Shelter No. 1,3,Toor Dal (5kg packet),152
+7,Kendrapara Cyclone Shelter No. 1,4,Mustard Oil (1L pouch),332
+7,Kendrapara Cyclone Shelter No. 1,5,Baby Food Cereal (500g tin),486
+7,Kendrapara Cyclone Shelter No. 1,6,Biscuits (Carton of 50),462
+7,Kendrapara Cyclone Shelter No. 1,7,Iodized Salt (1kg packet),369
+7,Kendrapara Cyclone Shelter No. 1,8,Ready-to-Eat Khichdi Meals,147
+7,Kendrapara Cyclone Shelter No. 1,9,Packaged Drinking Water (20L Jar),396
+7,Kendrapara Cyclone Shelter No. 1,10,Mineral Water Bottles (1L Carton),298
+7,Kendrapara Cyclone Shelter No. 1,12,Chlorine Drops (100ml bottle),428
+7,Kendrapara Cyclone Shelter No. 1,13,Mobile Water Filter Unit,582
+7,Kendrapara Cyclone Shelter No. 1,14,Jerry Can 10L,208
+7,Kendrapara Cyclone Shelter No. 1,15,First Aid Kit (Comprehensive),362
+7,Kendrapara Cyclone Shelter No. 1,16,Paracetamol 500mg (Strips of 10),195
+7,Kendrapara Cyclone Shelter No. 1,17,Oral Rehydration Salts (ORS 50 pkts),492
+7,Kendrapara Cyclone Shelter No. 1,18,Bandage Rolls (Pack of 12),394
+7,Kendrapara Cyclone Shelter No. 1,19,Antiseptic Liquid (500ml),162
+7,Kendrapara Cyclone Shelter No. 1,20,Ciprofloxacin 500mg,524
+7,Kendrapara Cyclone Shelter No. 1,21,Disposable Syringes (Pack of 50),328
+7,Kendrapara Cyclone Shelter No. 1,22,Emergency Trauma Dressing,89
+7,Kendrapara Cyclone Shelter No. 1,23,Family Tarpaulin 15x12 ft,531
+7,Kendrapara Cyclone Shelter No. 1,24,Waterproof Groundsheet 12x10 ft,360
+7,Kendrapara Cyclone Shelter No. 1,25,Nylon Rope (30m bundle),238
+7,Kendrapara Cyclone Shelter No. 1,26,Foldable Steel Cot,490
+7,Kendrapara Cyclone Shelter No. 1,27,Bamboo Poles (Bundle of 5),210
+7,Kendrapara Cyclone Shelter No. 1,28,Solar Lantern (Emergency),620
+7,Kendrapara Cyclone Shelter No. 1,29,Woolen Blanket (Heavy),424
+7,Kendrapara Cyclone Shelter No. 1,30,Cotton Bedsheets (Double),137
+7,Kendrapara Cyclone Shelter No. 1,31,Men's Dhoti & Kurta Set,554
+7,Kendrapara Cyclone Shelter No. 1,32,Women's Saree & Blouse Set,456
+7,Kendrapara Cyclone Shelter No. 1,33,Children's Thermal Wear Set,104
+7,Kendrapara Cyclone Shelter No. 1,34,Rain Ponchos (Pack of 5),324
+7,Kendrapara Cyclone Shelter No. 1,35,Sanitary Napkins (Pack of 20),390
+7,Kendrapara Cyclone Shelter No. 1,36,Bathing Soap (Pack of 4),366
+7,Kendrapara Cyclone Shelter No. 1,37,Detergent Powder (1kg pack),520
+8,Paradip Coastal Care Camp,1,Rice (25kg bag),326
+8,Paradip Coastal Care Camp,2,Wheat Flour (10kg bag),352
+8,Paradip Coastal Care Camp,3,Toor Dal (5kg packet),92
+8,Paradip Coastal Care Camp,4,Mustard Oil (1L pouch),242
+8,Paradip Coastal Care Camp,5,Baby Food Cereal (500g tin),512
+8,Paradip Coastal Care Camp,6,Biscuits (Carton of 50),132
+8,Paradip Coastal Care Camp,7,Iodized Salt (1kg packet),292
+8,Paradip Coastal Care Camp,8,Ready-to-Eat Khichdi Meals,160
+8,Paradip Coastal Care Camp,9,Packaged Drinking Water (20L Jar),422
+8,Paradip Coastal Care Camp,10,Mineral Water Bottles (1L Carton),50
+8,Paradip Coastal Care Camp,11,Water Purification Tablets (100 tab box),127
+8,Paradip Coastal Care Camp,12,Chlorine Drops (100ml bottle),290
+8,Paradip Coastal Care Camp,13,Mobile Water Filter Unit,608
+8,Paradip Coastal Care Camp,14,Jerry Can 10L,107
+8,Paradip Coastal Care Camp,15,First Aid Kit (Comprehensive),388
+8,Paradip Coastal Care Camp,16,Paracetamol 500mg (Strips of 10),208
+8,Paradip Coastal Care Camp,17,Oral Rehydration Salts (ORS 50 pkts),518
+8,Paradip Coastal Care Camp,18,Bandage Rolls (Pack of 12),98
+8,Paradip Coastal Care Camp,19,Antiseptic Liquid (500ml),175
+8,Paradip Coastal Care Camp,20,Ciprofloxacin 500mg,338
+8,Paradip Coastal Care Camp,21,Disposable Syringes (Pack of 50),354
+8,Paradip Coastal Care Camp,23,Family Tarpaulin 15x12 ft,484
+8,Paradip Coastal Care Camp,24,Waterproof Groundsheet 12x10 ft,256
+8,Paradip Coastal Care Camp,25,Nylon Rope (30m bundle),69
+8,Paradip Coastal Care Camp,26,Foldable Steel Cot,146
+8,Paradip Coastal Care Camp,27,Bamboo Poles (Bundle of 5),320
+8,Paradip Coastal Care Camp,28,Solar Lantern (Emergency),36
+8,Paradip Coastal Care Camp,29,Woolen Blanket (Heavy),450
+8,Paradip Coastal Care Camp,30,Cotton Bedsheets (Double),77
+8,Paradip Coastal Care Camp,31,Men's Dhoti & Kurta Set,580
+8,Paradip Coastal Care Camp,32,Women's Saree & Blouse Set,304
+8,Paradip Coastal Care Camp,33,Children's Thermal Wear Set,117
+8,Paradip Coastal Care Camp,34,Rain Ponchos (Pack of 5),194
+8,Paradip Coastal Care Camp,35,Sanitary Napkins (Pack of 20),416
+8,Paradip Coastal Care Camp,36,Bathing Soap (Pack of 4),84
+8,Paradip Coastal Care Camp,37,Detergent Powder (1kg pack),196
+8,Paradip Coastal Care Camp,38,Toothpaste & Brush Family Kit,112
+9,Mandi Valley Emergency Camp,1,Rice (25kg bag),64
+9,Mandi Valley Emergency Camp,2,Wheat Flour (10kg bag),506
+9,Mandi Valley Emergency Camp,4,Mustard Oil (1L pouch),286
+9,Mandi Valley Emergency Camp,5,Baby Food Cereal (500g tin),332
+9,Mandi Valley Emergency Camp,6,Biscuits (Carton of 50),145
+9,Mandi Valley Emergency Camp,7,Iodized Salt (1kg packet),222
+9,Mandi Valley Emergency Camp,8,Ready-to-Eat Khichdi Meals,472
+9,Mandi Valley Emergency Camp,9,Packaged Drinking Water (20L Jar),112
+9,Mandi Valley Emergency Camp,10,Mineral Water Bottles (1L Carton),348
+9,Mandi Valley Emergency Camp,11,Water Purification Tablets (100 tab box),140
+9,Mandi Valley Emergency Camp,12,Chlorine Drops (100ml bottle),382
+9,Mandi Valley Emergency Camp,13,Mobile Water Filter Unit,30
+9,Mandi Valley Emergency Camp,15,First Aid Kit (Comprehensive),270
+9,Mandi Valley Emergency Camp,16,Paracetamol 500mg (Strips of 10),568
+9,Mandi Valley Emergency Camp,17,Oral Rehydration Salts (ORS 50 pkts),160
+9,Mandi Valley Emergency Camp,18,Bandage Rolls (Pack of 12),348
+9,Mandi Valley Emergency Camp,19,Antiseptic Liquid (500ml),188
+9,Mandi Valley Emergency Camp,20,Ciprofloxacin 500mg,478
+9,Mandi Valley Emergency Camp,21,Disposable Syringes (Pack of 50),189
+9,Mandi Valley Emergency Camp,22,Emergency Trauma Dressing,155
+9,Mandi Valley Emergency Camp,23,Family Tarpaulin 15x12 ft,318
+9,Mandi Valley Emergency Camp,24,Waterproof Groundsheet 12x10 ft,314
+9,Mandi Valley Emergency Camp,26,Foldable Steel Cot,444
+9,Mandi Valley Emergency Camp,27,Bamboo Poles (Bundle of 5),236
+9,Mandi Valley Emergency Camp,28,Solar Lantern (Emergency),224
+9,Mandi Valley Emergency Camp,29,Woolen Blanket (Heavy),126
+9,Mandi Valley Emergency Camp,30,Cotton Bedsheets (Double),203
+9,Mandi Valley Emergency Camp,31,Men's Dhoti & Kurta Set,366
+9,Mandi Valley Emergency Camp,32,Women's Saree & Blouse Set,536
+9,Mandi Valley Emergency Camp,34,Rain Ponchos (Pack of 5),540
+9,Mandi Valley Emergency Camp,35,Sanitary Napkins (Pack of 20),284
+9,Mandi Valley Emergency Camp,36,Bathing Soap (Pack of 4),97
+9,Mandi Valley Emergency Camp,37,Detergent Powder (1kg pack),255
+9,Mandi Valley Emergency Camp,38,Toothpaste & Brush Family Kit,376
+10,Kullu Relief Hub,1,Rice (25kg bag),77
+10,Kullu Relief Hub,2,Wheat Flour (10kg bag),434
+10,Kullu Relief Hub,3,Toor Dal (5kg packet),336
+10,Kullu Relief Hub,4,Mustard Oil (1L pouch),214
+10,Kullu Relief Hub,5,Baby Food Cereal (500g tin),466
+10,Kullu Relief Hub,6,Biscuits (Carton of 50),283
+10,Kullu Relief Hub,7,Iodized Salt (1kg packet),596
+10,Kullu Relief Hub,8,Ready-to-Eat Khichdi Meals,400
+10,Kullu Relief Hub,9,Packaged Drinking Water (20L Jar),125
+10,Kullu Relief Hub,10,Mineral Water Bottles (1L Carton),530
+10,Kullu Relief Hub,11,Water Purification Tablets (100 tab box),432
+10,Kullu Relief Hub,12,Chlorine Drops (100ml bottle),92
+10,Kullu Relief Hub,13,Mobile Water Filter Unit,212
+10,Kullu Relief Hub,14,Jerry Can 10L,366
+10,Kullu Relief Hub,15,First Aid Kit (Comprehensive),342
+10,Kullu Relief Hub,16,Paracetamol 500mg (Strips of 10),496
+10,Kullu Relief Hub,17,Oral Rehydration Salts (ORS 50 pkts),100
+10,Kullu Relief Hub,18,Bandage Rolls (Pack of 12),626
+10,Kullu Relief Hub,19,Antiseptic Liquid (500ml),528
+10,Kullu Relief Hub,20,Ciprofloxacin 500mg,140
+10,Kullu Relief Hub,21,Disposable Syringes (Pack of 50),308
+10,Kullu Relief Hub,22,Emergency Trauma Dressing,462
+10,Kullu Relief Hub,23,Family Tarpaulin 15x12 ft,438
+10,Kullu Relief Hub,24,Waterproof Groundsheet 12x10 ft,242
+10,Kullu Relief Hub,25,Nylon Rope (30m bundle),135
+10,Kullu Relief Hub,26,Foldable Steel Cot,372
+10,Kullu Relief Hub,27,Bamboo Poles (Bundle of 5),624
+10,Kullu Relief Hub,28,Solar Lantern (Emergency),115
+10,Kullu Relief Hub,29,Woolen Blanket (Heavy),404
+10,Kullu Relief Hub,30,Cotton Bedsheets (Double),558
+10,Kullu Relief Hub,31,Men's Dhoti & Kurta Set,534
+10,Kullu Relief Hub,32,Women's Saree & Blouse Set,338
+10,Kullu Relief Hub,33,Children's Thermal Wear Set,183
+10,Kullu Relief Hub,34,Rain Ponchos (Pack of 5),468
+10,Kullu Relief Hub,35,Sanitary Napkins (Pack of 20),370
+10,Kullu Relief Hub,36,Bathing Soap (Pack of 4),150
+10,Kullu Relief Hub,37,Detergent Powder (1kg pack),500
+10,Kullu Relief Hub,38,Toothpaste & Brush Family Kit,304
+11,Uttarkashi Base Camp,2,Wheat Flour (10kg bag),460
+11,Uttarkashi Base Camp,3,Toor Dal (5kg packet),244
+11,Uttarkashi Base Camp,4,Mustard Oil (1L pouch),57
+11,Uttarkashi Base Camp,5,Baby Food Cereal (500g tin),134
+11,Uttarkashi Base Camp,6,Biscuits (Carton of 50),211
+11,Uttarkashi Base Camp,7,Iodized Salt (1kg packet),374
+11,Uttarkashi Base Camp,8,Ready-to-Eat Khichdi Meals,426
+11,Uttarkashi Base Camp,10,Mineral Water Bottles (1L Carton),556
+11,Uttarkashi Base Camp,11,Water Purification Tablets (100 tab box),292
+11,Uttarkashi Base Camp,12,Chlorine Drops (100ml bottle),105
+11,Uttarkashi Base Camp,13,Mobile Water Filter Unit,271
+11,Uttarkashi Base Camp,14,Jerry Can 10L,392
+11,Uttarkashi Base Camp,15,First Aid Kit (Comprehensive),72
+11,Uttarkashi Base Camp,16,Paracetamol 500mg (Strips of 10),522
+11,Uttarkashi Base Camp,18,Bandage Rolls (Pack of 12),302
+11,Uttarkashi Base Camp,19,Antiseptic Liquid (500ml),340
+11,Uttarkashi Base Camp,21,Disposable Syringes (Pack of 50),230
+11,Uttarkashi Base Camp,22,Emergency Trauma Dressing,488
+11,Uttarkashi Base Camp,23,Family Tarpaulin 15x12 ft,120
+11,Uttarkashi Base Camp,24,Waterproof Groundsheet 12x10 ft,372
+11,Uttarkashi Base Camp,25,Nylon Rope (30m bundle),148
+11,Uttarkashi Base Camp,26,Foldable Steel Cot,398
+11,Uttarkashi Base Camp,27,Bamboo Poles (Bundle of 5),38
+11,Uttarkashi Base Camp,29,Woolen Blanket (Heavy),278
+11,Uttarkashi Base Camp,30,Cotton Bedsheets (Double),584
+11,Uttarkashi Base Camp,32,Women's Saree & Blouse Set,364
+11,Uttarkashi Base Camp,33,Children's Thermal Wear Set,196
+11,Uttarkashi Base Camp,34,Rain Ponchos (Pack of 5),494
+11,Uttarkashi Base Camp,35,Sanitary Napkins (Pack of 20),205
+11,Uttarkashi Base Camp,36,Bathing Soap (Pack of 4),163
+11,Uttarkashi Base Camp,37,Detergent Powder (1kg pack),326
+11,Uttarkashi Base Camp,38,Toothpaste & Brush Family Kit,330
+12,Rudraprayag Youth Shelter,1,Rice (25kg bag),143
+12,Rudraprayag Youth Shelter,2,Wheat Flour (10kg bag),306
+12,Rudraprayag Youth Shelter,3,Toor Dal (5kg packet),290
+12,Rudraprayag Youth Shelter,4,Mustard Oil (1L pouch),123
+12,Rudraprayag Youth Shelter,5,Baby Food Cereal (500g tin),420
+12,Rudraprayag Youth Shelter,6,Biscuits (Carton of 50),224
+12,Rudraprayag Youth Shelter,7,Iodized Salt (1kg packet),200
+12,Rudraprayag Youth Shelter,8,Ready-to-Eat Khichdi Meals,114
+12,Rudraprayag Youth Shelter,9,Packaged Drinking Water (20L Jar),191
+12,Rudraprayag Youth Shelter,10,Mineral Water Bottles (1L Carton),354
+12,Rudraprayag Youth Shelter,11,Water Purification Tablets (100 tab box),386
+12,Rudraprayag Youth Shelter,13,Mobile Water Filter Unit,516
+12,Rudraprayag Youth Shelter,14,Jerry Can 10L,272
+12,Rudraprayag Youth Shelter,15,First Aid Kit (Comprehensive),223
+12,Rudraprayag Youth Shelter,16,Paracetamol 500mg (Strips of 10),162
+12,Rudraprayag Youth Shelter,17,Oral Rehydration Salts (ORS 50 pkts),352
+12,Rudraprayag Youth Shelter,18,Bandage Rolls (Pack of 12),52
+12,Rudraprayag Youth Shelter,19,Antiseptic Liquid (500ml),482
+12,Rudraprayag Youth Shelter,20,Ciprofloxacin 500mg,93
+12,Rudraprayag Youth Shelter,21,Disposable Syringes (Pack of 50),612
+12,Rudraprayag Youth Shelter,22,Emergency Trauma Dressing,320
+12,Rudraprayag Youth Shelter,23,Family Tarpaulin 15x12 ft,133
+12,Rudraprayag Youth Shelter,24,Waterproof Groundsheet 12x10 ft,210
+12,Rudraprayag Youth Shelter,25,Nylon Rope (30m bundle),448
+12,Rudraprayag Youth Shelter,26,Foldable Steel Cot,100
+12,Rudraprayag Youth Shelter,27,Bamboo Poles (Bundle of 5),228
+12,Rudraprayag Youth Shelter,28,Solar Lantern (Emergency),128
+12,Rudraprayag Youth Shelter,29,Woolen Blanket (Heavy),358
+12,Rudraprayag Youth Shelter,30,Cotton Bedsheets (Double),368
+12,Rudraprayag Youth Shelter,31,Men's Dhoti & Kurta Set,108
+12,Rudraprayag Youth Shelter,32,Women's Saree & Blouse Set,258
+12,Rudraprayag Youth Shelter,33,Children's Thermal Wear Set,544
+12,Rudraprayag Youth Shelter,34,Rain Ponchos (Pack of 5),148
+12,Rudraprayag Youth Shelter,35,Sanitary Napkins (Pack of 20),324
+12,Rudraprayag Youth Shelter,36,Bathing Soap (Pack of 4),176
+12,Rudraprayag Youth Shelter,37,Detergent Powder (1kg pack),454
+12,Rudraprayag Youth Shelter,38,Toothpaste & Brush Family Kit,66

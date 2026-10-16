@@ -1,0 +1,26 @@
+request_id,request_date,camp_id,camp_name,item_id,item_name,urgency
+1,2026-02-10,2,Kalpetta Community Shelter,20,Ciprofloxacin 500mg,critical
+3,2026-01-11,10,Kullu Relief Hub,39,Antiseptic Hand Wash (250ml),critical
+27,2026-02-28,10,Kullu Relief Hub,36,Bathing Soap (Pack of 4),critical
+39,2026-03-24,10,Kullu Relief Hub,13,Mobile Water Filter Unit,critical
+39,2026-03-24,10,Kullu Relief Hub,20,Ciprofloxacin 500mg,critical
+43,2026-04-01,10,Kullu Relief Hub,33,Children's Thermal Wear Set,critical
+55,2026-04-25,10,Kullu Relief Hub,17,Oral Rehydration Salts (ORS 50 pkts),critical
+55,2026-04-25,10,Kullu Relief Hub,24,Waterproof Groundsheet 12x10 ft,critical
+59,2026-05-03,10,Kullu Relief Hub,6,Biscuits (Carton of 50),critical
+67,2026-05-19,10,Kullu Relief Hub,1,Rice (25kg bag),critical
+71,2026-05-27,10,Kullu Relief Hub,21,Disposable Syringes (Pack of 50),critical
+71,2026-05-27,10,Kullu Relief Hub,28,Solar Lantern (Emergency),critical
+75,2026-06-04,10,Kullu Relief Hub,3,Toor Dal (5kg packet),critical
+83,2026-06-20,10,Kullu Relief Hub,12,Chlorine Drops (100ml bottle),critical
+87,2026-06-28,10,Kullu Relief Hub,25,Nylon Rope (30m bundle),critical
+87,2026-06-28,10,Kullu Relief Hub,32,Women's Saree & Blouse Set,critical
+91,2026-07-06,10,Kullu Relief Hub,14,Jerry Can 10L,critical
+99,2026-07-22,10,Kullu Relief Hub,9,Packaged Drinking Water (20L Jar),critical
+103,2026-07-30,10,Kullu Relief Hub,29,Woolen Blanket (Heavy),critical
+103,2026-07-30,10,Kullu Relief Hub,36,Bathing Soap (Pack of 4),critical
+107,2026-08-07,10,Kullu Relief Hub,11,Water Purification Tablets (100 tab box),critical
+115,2026-08-23,10,Kullu Relief Hub,13,Mobile Water Filter Unit,critical
+115,2026-08-23,10,Kullu Relief Hub,20,Ciprofloxacin 500mg,critical
+119,2026-08-31,10,Kullu Relief Hub,2,Wheat Flour (10kg bag),critical
+119,2026-08-31,10,Kullu Relief Hub,33,Children's Thermal Wear Set,critical

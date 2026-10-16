@@ -1,0 +1,19 @@
+camp_id,camp_name,skill,volunteer_1_id,volunteer_1_name,volunteer_2_id,volunteer_2_name
+1,Meppadi High School Relief Camp,nursing,3,Sister Mary Joseph,4,Sister Latha Kurien
+1,Meppadi High School Relief Camp,nursing,3,Sister Mary Joseph,36,Geeta Jha
+1,Meppadi High School Relief Camp,nursing,4,Sister Latha Kurien,36,Geeta Jha
+2,Kalpetta Community Shelter,medical,2,Dr. Priya Namboodiri,25,Dr. Tarun Gogoi
+2,Kalpetta Community Shelter,medical,2,Dr. Priya Namboodiri,37,Hemant Kulkarni
+2,Kalpetta Community Shelter,medical,25,Dr. Tarun Gogoi,37,Hemant Kulkarni
+3,Silchar Central Flood Shelter,driving,8,Manish Tiwari,13,Suresh Prabhu
+3,Silchar Central Flood Shelter,logistics,5,Rohan Deshmukh,14,Ananya Roy
+3,Silchar Central Flood Shelter,logistics,5,Rohan Deshmukh,38,Indira Lodhi
+3,Silchar Central Flood Shelter,logistics,14,Ananya Roy,38,Indira Lodhi
+3,Silchar Central Flood Shelter,search_and_rescue,6,Amitabh Sen,11,Deepak Joshi
+5,Joshimath Sector A Transit Camp,driving,28,Sanjay Manjrekar,40,Kiran Naik
+6,Karnaprayag Relief Center,cooking,17,Meenakshi Sundaram,29,Gauri Shinde
+6,Karnaprayag Relief Center,cooking,17,Meenakshi Sundaram,53,Xavier Dutta
+6,Karnaprayag Relief Center,cooking,29,Gauri Shinde,53,Xavier Dutta
+9,Mandi Valley Emergency Camp,medical,20,Dr. Sneha Patil,44,Omkar Reddy
+11,Uttarkashi Base Camp,cooking,22,Fatima Begum,46,Qasim Tripathi
+12,Rudraprayag Youth Shelter,logistics,23,Nitin Gadkari,59,Damodar Mishra

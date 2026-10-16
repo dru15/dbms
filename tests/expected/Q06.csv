@@ -1,0 +1,105 @@
+camp_id,camp_name,item_id,item_name,qty_requested,qty_delivered,unmet_quantity
+1,Meppadi High School Relief Camp,3,Toor Dal (5kg packet),232,218,14
+1,Meppadi High School Relief Camp,4,Mustard Oil (1L pouch),309,0,309
+1,Meppadi High School Relief Camp,7,Iodized Salt (1kg packet),264,0,264
+1,Meppadi High School Relief Camp,12,Chlorine Drops (100ml bottle),456,171,285
+1,Meppadi High School Relief Camp,14,Jerry Can 10L,488,346,142
+1,Meppadi High School Relief Camp,15,First Aid Kit (Comprehensive),126,0,126
+1,Meppadi High School Relief Camp,18,Bandage Rolls (Pack of 12),351,65,286
+1,Meppadi High School Relief Camp,21,Disposable Syringes (Pack of 50),224,190,34
+1,Meppadi High School Relief Camp,23,Family Tarpaulin 15x12 ft,240,186,54
+1,Meppadi High School Relief Camp,26,Foldable Steel Cot,345,113,232
+1,Meppadi High School Relief Camp,29,Woolen Blanket (Heavy),106,80,26
+1,Meppadi High School Relief Camp,30,Cotton Bedsheets (Double),440,188,252
+1,Meppadi High School Relief Camp,32,Women's Saree & Blouse Set,472,318,154
+1,Meppadi High School Relief Camp,34,Rain Ponchos (Pack of 5),315,0,315
+1,Meppadi High School Relief Camp,37,Detergent Powder (1kg pack),200,128,72
+1,Meppadi High School Relief Camp,38,Toothpaste & Brush Family Kit,363,284,79
+2,Kalpetta Community Shelter,20,Ciprofloxacin 500mg,50,0,50
+4,Hailakandi Town Hall Camp,1,Rice (25kg bag),204,0,204
+4,Hailakandi Town Hall Camp,2,Wheat Flour (10kg bag),186,61,125
+4,Hailakandi Town Hall Camp,3,Toor Dal (5kg packet),220,0,220
+4,Hailakandi Town Hall Camp,4,Mustard Oil (1L pouch),202,0,202
+4,Hailakandi Town Hall Camp,5,Baby Food Cereal (500g tin),80,0,80
+4,Hailakandi Town Hall Camp,6,Biscuits (Carton of 50),218,0,218
+4,Hailakandi Town Hall Camp,7,Iodized Salt (1kg packet),88,0,88
+4,Hailakandi Town Hall Camp,8,Ready-to-Eat Khichdi Meals,234,0,234
+4,Hailakandi Town Hall Camp,9,Packaged Drinking Water (20L Jar),96,0,96
+4,Hailakandi Town Hall Camp,10,Mineral Water Bottles (1L Carton),250,0,250
+4,Hailakandi Town Hall Camp,11,Water Purification Tablets (100 tab box),104,0,104
+4,Hailakandi Town Hall Camp,12,Chlorine Drops (100ml bottle),95,0,95
+4,Hailakandi Town Hall Camp,13,Mobile Water Filter Unit,112,76,36
+4,Hailakandi Town Hall Camp,14,Jerry Can 10L,103,0,103
+4,Hailakandi Town Hall Camp,15,First Aid Kit (Comprehensive),164,0,164
+4,Hailakandi Town Hall Camp,16,Paracetamol 500mg (Strips of 10),111,0,111
+4,Hailakandi Town Hall Camp,17,Oral Rehydration Salts (ORS 50 pkts),180,0,180
+4,Hailakandi Town Hall Camp,18,Bandage Rolls (Pack of 12),119,0,119
+4,Hailakandi Town Hall Camp,19,Antiseptic Liquid (500ml),196,0,196
+4,Hailakandi Town Hall Camp,20,Ciprofloxacin 500mg,127,0,127
+4,Hailakandi Town Hall Camp,21,Disposable Syringes (Pack of 50),212,0,212
+4,Hailakandi Town Hall Camp,22,Emergency Trauma Dressing,194,0,194
+4,Hailakandi Town Hall Camp,23,Family Tarpaulin 15x12 ft,228,0,228
+4,Hailakandi Town Hall Camp,24,Waterproof Groundsheet 12x10 ft,210,91,119
+4,Hailakandi Town Hall Camp,25,Nylon Rope (30m bundle),84,0,84
+4,Hailakandi Town Hall Camp,26,Foldable Steel Cot,226,0,226
+4,Hailakandi Town Hall Camp,27,Bamboo Poles (Bundle of 5),92,0,92
+4,Hailakandi Town Hall Camp,28,Solar Lantern (Emergency),242,0,242
+4,Hailakandi Town Hall Camp,29,Woolen Blanket (Heavy),100,0,100
+4,Hailakandi Town Hall Camp,30,Cotton Bedsheets (Double),258,0,258
+4,Hailakandi Town Hall Camp,31,Men's Dhoti & Kurta Set,108,0,108
+4,Hailakandi Town Hall Camp,32,Women's Saree & Blouse Set,99,0,99
+4,Hailakandi Town Hall Camp,33,Children's Thermal Wear Set,156,0,156
+4,Hailakandi Town Hall Camp,34,Rain Ponchos (Pack of 5),107,0,107
+4,Hailakandi Town Hall Camp,35,Sanitary Napkins (Pack of 20),172,0,172
+4,Hailakandi Town Hall Camp,36,Bathing Soap (Pack of 4),115,0,115
+4,Hailakandi Town Hall Camp,37,Detergent Powder (1kg pack),188,0,188
+4,Hailakandi Town Hall Camp,38,Toothpaste & Brush Family Kit,123,0,123
+7,Kendrapara Cyclone Shelter No. 1,4,Mustard Oil (1L pouch),480,332,148
+7,Kendrapara Cyclone Shelter No. 1,8,Ready-to-Eat Khichdi Meals,345,147,198
+7,Kendrapara Cyclone Shelter No. 1,11,Water Purification Tablets (100 tab box),220,0,220
+7,Kendrapara Cyclone Shelter No. 1,14,Jerry Can 10L,315,208,107
+7,Kendrapara Cyclone Shelter No. 1,16,Paracetamol 500mg (Strips of 10),339,195,144
+7,Kendrapara Cyclone Shelter No. 1,22,Emergency Trauma Dressing,464,89,375
+7,Kendrapara Cyclone Shelter No. 1,30,Cotton Bedsheets (Double),220,137,83
+7,Kendrapara Cyclone Shelter No. 1,33,Children's Thermal Wear Set,244,104,140
+7,Kendrapara Cyclone Shelter No. 1,34,Rain Ponchos (Pack of 5),327,324,3
+7,Kendrapara Cyclone Shelter No. 1,38,Toothpaste & Brush Family Kit,416,0,416
+7,Kendrapara Cyclone Shelter No. 1,39,Antiseptic Hand Wash (250ml),100,0,100
+10,Kullu Relief Hub,1,Rice (25kg bag),102,0,102
+10,Kullu Relief Hub,2,Wheat Flour (10kg bag),262,0,262
+10,Kullu Relief Hub,3,Toor Dal (5kg packet),110,0,110
+10,Kullu Relief Hub,4,Mustard Oil (1L pouch),101,0,101
+10,Kullu Relief Hub,5,Baby Food Cereal (500g tin),160,0,160
+10,Kullu Relief Hub,6,Biscuits (Carton of 50),109,85,24
+10,Kullu Relief Hub,7,Iodized Salt (1kg packet),176,0,176
+10,Kullu Relief Hub,8,Ready-to-Eat Khichdi Meals,117,0,117
+10,Kullu Relief Hub,9,Packaged Drinking Water (20L Jar),192,0,192
+10,Kullu Relief Hub,10,Mineral Water Bottles (1L Carton),125,0,125
+10,Kullu Relief Hub,11,Water Purification Tablets (100 tab box),208,0,208
+10,Kullu Relief Hub,12,Chlorine Drops (100ml bottle),190,0,190
+10,Kullu Relief Hub,13,Mobile Water Filter Unit,224,0,224
+10,Kullu Relief Hub,14,Jerry Can 10L,206,0,206
+10,Kullu Relief Hub,15,First Aid Kit (Comprehensive),82,0,82
+10,Kullu Relief Hub,16,Paracetamol 500mg (Strips of 10),222,0,222
+10,Kullu Relief Hub,18,Bandage Rolls (Pack of 12),238,0,238
+10,Kullu Relief Hub,19,Antiseptic Liquid (500ml),98,0,98
+10,Kullu Relief Hub,20,Ciprofloxacin 500mg,254,0,254
+10,Kullu Relief Hub,21,Disposable Syringes (Pack of 50),106,0,106
+10,Kullu Relief Hub,22,Emergency Trauma Dressing,97,0,97
+10,Kullu Relief Hub,23,Family Tarpaulin 15x12 ft,114,0,114
+10,Kullu Relief Hub,24,Waterproof Groundsheet 12x10 ft,105,0,105
+10,Kullu Relief Hub,25,Nylon Rope (30m bundle),168,0,168
+10,Kullu Relief Hub,26,Foldable Steel Cot,113,0,113
+10,Kullu Relief Hub,27,Bamboo Poles (Bundle of 5),184,0,184
+10,Kullu Relief Hub,28,Solar Lantern (Emergency),121,115,6
+10,Kullu Relief Hub,29,Woolen Blanket (Heavy),200,0,200
+10,Kullu Relief Hub,30,Cotton Bedsheets (Double),182,0,182
+10,Kullu Relief Hub,31,Men's Dhoti & Kurta Set,216,0,216
+10,Kullu Relief Hub,32,Women's Saree & Blouse Set,198,0,198
+10,Kullu Relief Hub,33,Children's Thermal Wear Set,232,0,232
+10,Kullu Relief Hub,34,Rain Ponchos (Pack of 5),214,0,214
+10,Kullu Relief Hub,35,Sanitary Napkins (Pack of 20),86,0,86
+10,Kullu Relief Hub,36,Bathing Soap (Pack of 4),230,0,230
+10,Kullu Relief Hub,37,Detergent Powder (1kg pack),94,0,94
+10,Kullu Relief Hub,38,Toothpaste & Brush Family Kit,246,0,246
+10,Kullu Relief Hub,39,Antiseptic Hand Wash (250ml),150,0,150

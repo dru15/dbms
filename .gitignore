@@ -1,0 +1,12 @@
+# Generated local runtime and build output
+node_modules/
+dist/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+# Regenerated from authoritative SQL and CSV sources by predev/prebuild
+ui/client/src/data/project.json
+# Local credentials
+.env
+.env.*
+!.env.example
